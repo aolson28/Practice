@@ -14,7 +14,7 @@ def disemvowel(string_):
 # P string
 # R string without vowels
 # E 'TEST ABCDEF' -> 'TST BCDF'
-# P could use stacked replaces like above. Should use below
+# P could use stacked replaces like above. Should use below. could use the string of vowels as below or in list. string uses less characters.
 #
 # def disemvowel(string_):
 #    for i in 'aeiouAEIOU':
