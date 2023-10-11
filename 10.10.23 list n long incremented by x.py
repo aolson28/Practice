@@ -12,3 +12,4 @@ def count_by(x, n):
 # R list with n number of items, increment by x
 # E count_by(3,3) -> [3, 6, 9]
 # P while loop, appending the list
+# easier way -> return [i * x for i in range(1, n + 1)]
