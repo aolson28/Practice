@@ -10,3 +10,4 @@ def accum(s):
 # P lower case the string. Then loop through each character, using the index -
 #   where the index is represented by the incrementing number in range(len(s)).
 #   Then join with '-' and title() for capitalization
+# Can also enumerate and use those in for loop. example: return '-'.join(str(c*(i+1)).capitalize() for i,c in enumerate(s))
