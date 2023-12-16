@@ -1,10 +1,10 @@
 const family = {
-    ron: "Ron",
-    anne: "Jen",
-    mae: "Mae",
-    joy: "Joy",
-    michael: "Michael",
-    annie: "Annie"
+    ron: "dad",
+    anne: "mom",
+    mae: "child1",
+    joy: "child2",
+    michael: "child3",
+    annie: "child4"
 }
 
 const isFamily = name => {
